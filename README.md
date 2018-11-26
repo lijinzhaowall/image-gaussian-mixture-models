@@ -8,3 +8,5 @@
 使用了随机初始化初值和k-means选择初值两种两种初始化方法。
 
 自己学习聚类的一个小实验。
+
+参考了这个根据灰度值分割的一维高斯混合模型：https://github.com/gokul-raghuraman/gaussian-mixture-models
